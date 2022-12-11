@@ -1,6 +1,6 @@
 package com.example.PP_3_2_1_SB.service;
 
-import com.example.PP_3_2_1_SB.DAO.UserRepository;
+import com.example.PP_3_2_1_SB.Repositories.UserRepository;
 import com.example.PP_3_2_1_SB.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package com.example.PP_3_2_1_SB.DAO;
+package com.example.PP_3_2_1_SB.Repositories;
 
 import com.example.PP_3_2_1_SB.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
